@@ -1,3 +1,7 @@
+# Note
+
+Project moved to https://codeberg.org/prefec2/qa-eclipse-plugin
+
 [![GitHub issues](https://img.shields.io/github/issues/ChristianWulf/qa-eclipse-plugin.svg)](https://github.com/ChristianWulf/qa-eclipse-plugin/issues)
 [![GitHub license](https://img.shields.io/github/license/ChristianWulf/qa-eclipse-plugin.svg)](https://github.com/ChristianWulf/qa-eclipse-plugin/blob/master/LICENSE)
 [![Build Status](https://build.se.informatik.uni-kiel.de/jenkins/buildStatus/icon?job=Eclipse%20Plugin%20for%20QA%20Tools)](http://build.se.informatik.uni-kiel.de/jenkins/job/Eclipse%20Plugin%20for%20QA%20Tools/)
